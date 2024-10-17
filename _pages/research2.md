@@ -28,7 +28,7 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 
-document.getElementById("defaultOpen").click();
+
 </script>
 
 # Research Test
@@ -67,6 +67,10 @@ and several internal funding sources, for supporting our past and current resear
   <h3>Tokyo</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
+
+<script>
+document.getElementById("defaultOpen").click();
+</script>
 
 ## Wearable Robotics
 The aging population and neurological disorders such as stroke 
