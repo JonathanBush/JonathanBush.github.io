@@ -19,6 +19,30 @@ We greatly acknowledge the National Science Foundation, Office of Naval Research
 Science Foundation Arizona, Arizona Department of Health Services, Salt River Project, Northrop Grumman Cooperation, 
 and several internal funding sources, for supporting our past and current research.
 
+## Template Robotics
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
 ## Wearable Robotics
 The aging population and neurological disorders such as stroke 
 and Parkinson's disease lead to increased walking impairments. 
