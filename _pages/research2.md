@@ -27,6 +27,8 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+document.getElementById("defaultOpen").click();
 </script>
 
 # Research Test
@@ -45,7 +47,7 @@ and several internal funding sources, for supporting our past and current resear
 ## Template Robotics
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
   <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
   <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
 </div>
