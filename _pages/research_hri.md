@@ -218,9 +218,7 @@ document.getElementById("defaultOpen").click();
 </tr>
 </table>
 ### Collaborators
- - ABRC
- - BNI
- - UIUC
- - Virginia Tech
- - SRP
+<img src="/images/NSF_logo.svg" alt="National Science Foundation" height="200px">
+<img src="/images/Air_Force_Research_Laboratory.png" height="200px">
+
 <hr>
