@@ -89,18 +89,21 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 <table style="width:100%">
   <tr>
     <td markdown="span">  
-    - Goal
-      - Make AI better understand human preferences and decisions to make AI better able to assist
-    - Project Description
-      - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
-    - Looking for:
-      - Set up Overcooked RL environment
-      - Modify overcooked to induce risk
-      - Train standard baseline policies
-      - Train discrete prospect-theoretic models
-      - Estimate latent human parameters online</td>
+  - Goal
+    - Make AI better understand human preferences and decisions to make AI better able to assist
+  - Project Description
+    - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
+  - Looking for:
+    - Set up Overcooked RL environment
+    - Modify overcooked to induce risk
+    - Train standard baseline policies
+    - Train discrete prospect-theoretic models
+    - Estimate latent human parameters online
+    </td>
     <td markdown = "span" style="width:50%">
 	    <img src="/images/respic/hri/hri3.PNG" width="200px">
+	    <img src="/images/respic/hri/hri4.png" width="200px">
+	    <img src="/images/respic/hri/hri5.png" width="200px">
     </td>
   </tr>
 </table>
