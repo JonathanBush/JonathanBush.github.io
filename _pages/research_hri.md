@@ -49,10 +49,10 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 <!-- Tab content -->
 <div id="Publications" class="tabcontent" style="height:500px;">
   <h3>Publications</h3>
-<table>
+<table style="width:100%">
   <tr>
-    <td><p><a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></p></td>
-    <td><img src="/images/respic/hri/hri1.png" width="200px"></td>
+    <td><<a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></td>
+    <td style="width:70%"><img src="/images/respic/hri/hri1.png" width="200px"></td>
   </tr>
   <tr>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/9982108">Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information</a></td>
