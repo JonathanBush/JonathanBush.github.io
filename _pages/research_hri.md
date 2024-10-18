@@ -196,7 +196,7 @@ To have a more compliant and robust controller
 
 <div id="Outreach" class="tabcontent" style="height:500px;">
   <h3>Outreach</h3>
-  <img src="/images/respic/hri/hri_outreach.png" width="800px">
+  <img src="/images/respic/hri/hri_outreach.png" width="750px">
 </div>
 
 <script>
