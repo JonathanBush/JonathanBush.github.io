@@ -3,7 +3,7 @@ title: "ASU RISE Lab - Research"
 layout: textlay
 excerpt: "ASU RISE Lab -- Research"
 sitemap: false
-permalink: /research2/
+permalink: /research/soft_robotics
 ---
 
 <script>

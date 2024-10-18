@@ -3,7 +3,7 @@ title: "ASU RISE Lab - Research"
 layout: textlay
 excerpt: "ASU RISE Lab -- Research"
 sitemap: false
-permalink: /research2/
+permalink: /research/uav
 ---
 
 <script>
@@ -33,7 +33,7 @@ function openCity(evt, cityName) {
 
 
 ## Template Robotics
-Soft robotics is reshaping the future of technology by developing flexible, adaptable systems that safely interact with humans and operate in complex environments. By utilizing soft, deformable materials, this work focuses on creating robots that address real-world challenges across various industries. Current projects include a precision-engineered soft robotic arm designed for advanced modeling and control, pneumatic fabric-based exosuits that offer personalized support for individuals in rehabilitation, and a soft pipe inspection robot capable of navigating intricate pipelines to ensure safe and efficient maintenance. These technologies aim to improve quality of life, enhance mobility, and enable safer infrastructure management. The driving mission is to push the boundaries of robotics through human-centered, adaptable designs that meet the growing demand for innovative solutions in healthcare, industry, and beyond, offering systems that are not only efficient but also intuitive in their interaction with people.
+Unmanned aerial vehicles (UAVs) are popular in various applications, such as aerial photography, surveillance, search and rescue, and precision agriculture. However, autonomous operations of small UAVs in dynamic environments pose challenges on the design of vehicle hardware and the embedded autonomy algorithms. Our research in this area includes (1) exploring the design of morphing UAVs, (2) developing dynamic models and precision control algorithms for the new hardware, and (3) demonstrating aerial-physical interaction for navigation and manipulation.
 <table style="width:100%">
 <tr>
 <td style="width:70%">
