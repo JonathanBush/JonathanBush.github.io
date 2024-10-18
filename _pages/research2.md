@@ -45,8 +45,10 @@ Science Foundation Arizona, Arizona Department of Health Services, Salt River Pr
 and several internal funding sources, for supporting our past and current research.
 
 ## Template Robotics
-<div>
 Soft robotics is reshaping the future of technology by developing flexible, adaptable systems that safely interact with humans and operate in complex environments. By utilizing soft, deformable materials, this work focuses on creating robots that address real-world challenges across various industries. Current projects include a precision-engineered soft robotic arm designed for advanced modeling and control, pneumatic fabric-based exosuits that offer personalized support for individuals in rehabilitation, and a soft pipe inspection robot capable of navigating intricate pipelines to ensure safe and efficient maintenance. These technologies aim to improve quality of life, enhance mobility, and enable safer infrastructure management. The driving mission is to push the boundaries of robotics through human-centered, adaptable designs that meet the growing demand for innovative solutions in healthcare, industry, and beyond, offering systems that are not only efficient but also intuitive in their interaction with people.
+<table>
+<tr>
+<td>
 <div class="col-sm-6 clearfix">
 <!-- Tab links -->
 <div class="tab">
@@ -82,7 +84,8 @@ Soft robotics is reshaping the future of technology by developing flexible, adap
 document.getElementById("defaultOpen").click();
 </script>
 </div>
-
+</td>
+<td>
 <div class="col-sm-6 clearfix">
 Weija Tao
 
@@ -92,7 +95,9 @@ Raj Kodithyala
 
 Chach Chaimongkol
 </div>
-</div>
+</td>
+</tr>
+</table>
 <hr>
 ## Wearable Robotics
 The aging population and neurological disorders such as stroke 
