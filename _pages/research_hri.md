@@ -97,7 +97,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 		<li>
 			Make AI better understand human preferences and decisions to make AI better able to assist
 		</li>
-	<\ul>
+	</ul>
  <li>
 		Project Description
 	</li>
@@ -105,19 +105,19 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 		<li>
 			Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
 		</li>
-	<\ul>
+ </ul>
  <li>
 		Looking for:
 	</li>
-  <ul>
+<ul>
 		<li>
 			Set up Overcooked RL environment
 		</li>
-	<\ul>
- <\ul>
+</ul>
+</ul>
     </td>
     <td markdown = "span" style="width:50%">
-	    <img src="/images/respic/hri/hri3.PNG" width="200px">
+	    <img src="/images/respic/hri/hri3.PNG" width="200px"> <br>
 	    <img src="/images/respic/hri/hri4.png" width="200px">
     </td>
   </tr>
