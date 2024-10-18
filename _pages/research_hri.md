@@ -137,6 +137,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 
  
   <h4>Game Theoretical Modeling of Physical Human-Robot Interactions </h4>
+  <!--
   - Goal
     - Developing a game theoretical-based controller for physical human-robot interaction scenarios such as controlling assistive wearable robots 
 
@@ -147,6 +148,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
     - Apply the developed framework to actual HRI scenarios and model the human learning process.
     - Applying the results on the control of assistive wearable robots to have a more compliant and robust controller
    
+   -->
 <table style="width:100%">
   <tr>
     <td> 
