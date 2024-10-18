@@ -66,7 +66,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 <!--
   <p><a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></p> <img src="/images/respic/hri/hri1.png" width="200px">
   <p><a href="https://ieeexplore.ieee.org/abstract/document/9982108">Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information</a></p> <img src="/images/respic/hri/hri2.png" width="200px">
-  <p><a href="[https://ieeexplore.ieee.org/abstract/document/9982108](https://ieeexplore.ieee.org/abstract/document/9867155)">When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions</a></p>
+  <p><a href="[https://ieeexplore.ieee.org/abstract/document/9982108](https://ieeexplore.ieee.org/abstract/document/9867155)">When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions</a></p> <img src="/images/respic/hri/25.png" width="200px">
   -->
 	
 </div>
