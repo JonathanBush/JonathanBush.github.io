@@ -47,7 +47,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 </div>
 
 <!-- Tab content -->
-<div id="Publications" class="tabcontent">
+<div id="Publications" class="tabcontent" style="height:500px;">
   <h3>Publications</h3>
   <p><a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></p>
   <p><a href="https://ieeexplore.ieee.org/abstract/document/9982108">Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information</a></p>
@@ -55,7 +55,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 	
 </div>
 
-<div id="Projects" class="tabcontent" markdown="1">
+<div id="Projects" class="tabcontent" markdown="1" style="height:500px;overflow:scroll">
   <h3>Projects</h3>
   <h4>Prospect-Theoretic Reinforcement Learning in Overcooked</h4>
   - Goal
@@ -68,10 +68,10 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 	-Train standard baseline policies
 	-Train discrete prospect-theoretic models
 	-Estimate latent human parameters online
-
+<
 </div>
 
-<div id="Outreach" class="tabcontent">
+<div id="Outreach" class="tabcontent" style="height:500px;">
   <h3>Outreach</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
