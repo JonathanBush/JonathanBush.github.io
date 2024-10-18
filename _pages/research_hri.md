@@ -96,11 +96,11 @@ document.getElementById("defaultOpen").click();
 #### Team Members
 - <a href="{{ site.url }}{{ site.baseurl }}/team">Sunny Amatya</a>
 
-- Jonathan Bush
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Jonathan Bush</a>
 
-- Mason Smith
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Mason Smith</a>
 
-- Yousef Soltanian
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Yousef Soltanian</a>
 
 </td>
 </tr>
