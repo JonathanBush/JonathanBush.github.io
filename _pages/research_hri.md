@@ -60,7 +60,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
   </tr>
   <tr>
     <td><a href="[https://ieeexplore.ieee.org/abstract/document/9982108](https://ieeexplore.ieee.org/abstract/document/9867155)">When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions</a></td>
-    <td style="text-align:center">Francisco Chang</td>
+    <td style="text-align:center"><img src="/images/respic/hri/25.png" width="200px"></td>
   </tr>
 </table>
 <!--
