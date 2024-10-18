@@ -61,9 +61,16 @@ Soft robotics is reshaping the future of technology by developing flexible, adap
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Projects" class="tabcontent">
-  <h3>Projects</h3>
-  <p>Paris is the capital of France.</p>
+<div id="Projects" class="tabcontent" markdown="1">
+  ### Projects
+  #### Soft Robotic Arm
+  - Goal
+    - Modeling and control of a soft robotic arm
+  - Project Description
+    - Work on pneumatically operated soft robotic arm to test, train and implement models and develop control algorithms to achieve tasks including but not limited to trajectory tracking.
+  - Looking for:
+    - Modify/upgrade the design of soft robotic arm and evaluation protocol for different experiments.
+	- Identify and implement different types of input/output data collection trials to train/test models.
 </div>
 
 <div id="Outreach" class="tabcontent">
@@ -75,6 +82,8 @@ Soft robotics is reshaping the future of technology by developing flexible, adap
 document.getElementById("defaultOpen").click();
 </script>
 </div>
+
+<div class="col-sm-6 clearfix">
 Weija Tao
 
 Jahnav Rokalaboina
@@ -82,9 +91,8 @@ Jahnav Rokalaboina
 Raj Kodithyala
 
 Chach Chaimongkol
-<div class="col-sm-6 clearfix">
-
 </div>
+<hr>
 ## Wearable Robotics
 The aging population and neurological disorders such as stroke 
 and Parkinson's disease lead to increased walking impairments. 
