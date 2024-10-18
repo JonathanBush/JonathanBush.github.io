@@ -62,8 +62,8 @@ Soft robotics is reshaping the future of technology by developing flexible, adap
 </div>
 
 <div id="Projects" class="tabcontent" markdown="1">
-  ### Projects
-  #### Soft Robotic Arm
+  <h3>Projects</h3>
+  <h4>Soft Robotic Arm</h4>
   - Goal
     - Modeling and control of a soft robotic arm
   - Project Description
