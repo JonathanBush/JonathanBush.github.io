@@ -64,10 +64,10 @@ Robots are increasingly employed in close proximity to humans. For the humans an
     - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
   - Looking for:
     - Set up Overcooked RL environment
-    -Modify overcooked to induce risk
-    -Train standard baseline policies
-    -Train discrete prospect-theoretic models
-    -Estimate latent human parameters online
+    - Modify overcooked to induce risk
+    - Train standard baseline policies
+    - Train discrete prospect-theoretic models
+    - Estimate latent human parameters online
 
  
   <h4>Game Theoretical Modeling of Physical Human-Robot Interactions </h4>
@@ -94,13 +94,13 @@ document.getElementById("defaultOpen").click();
 </td>
 <td style="width:30%;padding-left:1em" markdown="1">
 #### Team Members
-- Weija Tao
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Sunny Amatya</a>
 
-- Jahnav Rokalaboina
+- Jonathan Bush
 
-- Raj Kodithyala
+- Mason Smith
 
-- Chach Chaimongkol
+- Yousef Soltanian
 
 </td>
 </tr>
