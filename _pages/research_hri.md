@@ -47,7 +47,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 </div>
 
 <!-- Tab content -->
-<div id="Publications" class="tabcontent" style="height:500px;">
+<div id="Publications" class="tabcontent"  markdown="1" style="height:500px;overflow:scroll">
   <h3>Publications</h3>
 <table style="width:100%">
   <tr>
