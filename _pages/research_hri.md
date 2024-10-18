@@ -137,18 +137,6 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 
  
   <h4>Game Theoretical Modeling of Physical Human-Robot Interactions </h4>
-  <!--
-  - Goal
-    - Developing a game theoretical-based controller for physical human-robot interaction scenarios such as controlling assistive wearable robots 
-
-  - Project Description
-    - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
-  - Looking for:
-    - Developing a framework for solving incomplete information Multi-agent interactions.
-    - Apply the developed framework to actual HRI scenarios and model the human learning process.
-    - Applying the results on the control of assistive wearable robots to have a more compliant and robust controller
-   
-   -->
 <table style="width:100%">
   <tr>
     <td> 
@@ -200,7 +188,7 @@ To have a more compliant and robust controller
 </ul>
     </td>
     <td markdown = "span" style="width:50%">
-	    <img src="/images/respic/hri/hri5.PNG" width="300px">
+	    <img src="/images/respic/hri/hri5.png" width="300px">
     </td>
   </tr>
 </table>
@@ -208,7 +196,7 @@ To have a more compliant and robust controller
 
 <div id="Outreach" class="tabcontent" style="height:500px;">
   <h3>Outreach</h3>
-  <img src="/images/respic/hri/hri_outreach.png" width="500px">
+  <img src="/images/respic/hri/hri_outreach.png" width="800px">
 </div>
 
 <script>
