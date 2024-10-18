@@ -6,90 +6,42 @@ sitemap: false
 permalink: /research2/
 ---
 
-<script>
-function openCity(evt, cityName) {
-  // Declare all variables
-  var i, tabcontent, tablinks;
+# Research
 
-  // Get all elements with class="tabcontent" and hide them
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
+The overarching goal of our research is to develop novel learning and control algorithms to enable robots to safely and efficiently collaborate with humans and other robots to complete complex tasks. The algorithms are applied to various robot platforms, including wearable robotics, soft robotics, unmanned aerial vehicles, and robot manipulators. Please check the summary of each project below and feel free to contact us if you have any questions or want to know more details!
 
-  // Get all elements with class="tablinks" and remove the class "active"
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-
-  // Show the current tab, and add an "active" class to the button that opened the tab
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
+We greatly acknowledge the National Science Foundation, Office of Naval Research, Science Foundation Arizona, Arizona Department of Health Services, Salt River Project, Northrop Grumman Cooperation, and several internal funding sources, for supporting our past and current research.
 
 
-</script>
 
+<table width="100%" style="text-align:center">
+	<colgroup>
+		<col width="33%" />
+		<col width="33%" />
+		<col width="33%" />
+	</colgroup>
+	<thead>
+		<tr style="text-align:center">
+			<th style="text-align:center"><h2><a href="/research/uav">Aerial Robotics</a></h2></th>
+			<th style="text-align:center"><h2><a href="/research/soft">Soft Robotics</a></h2></th>
+			<th style="text-align:center"><h2><a href="/research/hri">Human-Robot Interaction</a></h2></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td markdown="span">
+				<a href="/research/uav"><img src="/images/respic/uav/uav3.png" alt="Aerial Robotics" width="80%"></a>
+			</td>
 
-## Template Robotics
-Soft robotics is reshaping the future of technology by developing flexible, adaptable systems that safely interact with humans and operate in complex environments. By utilizing soft, deformable materials, this work focuses on creating robots that address real-world challenges across various industries. Current projects include a precision-engineered soft robotic arm designed for advanced modeling and control, pneumatic fabric-based exosuits that offer personalized support for individuals in rehabilitation, and a soft pipe inspection robot capable of navigating intricate pipelines to ensure safe and efficient maintenance. These technologies aim to improve quality of life, enhance mobility, and enable safer infrastructure management. The driving mission is to push the boundaries of robotics through human-centered, adaptable designs that meet the growing demand for innovative solutions in healthcare, industry, and beyond, offering systems that are not only efficient but also intuitive in their interaction with people.
-<table style="width:100%">
-<tr>
-<td style="width:70%">
+			<td>
+				<a href="/research/soft"><img src="/images/respic/soft/soft1.png" alt="Soft Robotics" width="80%"></a>
+			</td>
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Publications')" id="defaultOpen">Publications</button>
-  <button class="tablinks" onclick="openCity(event, 'Projects')">Projects</button>
-  <button class="tablinks" onclick="openCity(event, 'Outreach')">Outreach</button>
-</div>
-
-<!-- Tab content -->
-<div id="Publications" class="tabcontent">
-  <h3>Publications</h3>
-  <p>London is the capital city of England.</p>
-</div>
-
-<div id="Projects" class="tabcontent" markdown="1">
-  <h3>Projects</h3>
-  <h4>Soft Robotic Arm</h4>
-  - Goal
-    - Modeling and control of a soft robotic arm
-  - Project Description
-    - Work on pneumatically operated soft robotic arm to test, train and implement models and develop control algorithms to achieve tasks including but not limited to trajectory tracking.
-  - Looking for:
-    - Modify/upgrade the design of soft robotic arm and evaluation protocol for different experiments.
-	- Identify and implement different types of input/output data collection trials to train/test models.
-</div>
-
-<div id="Outreach" class="tabcontent">
-  <h3>Outreach</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
-
-<script>
-document.getElementById("defaultOpen").click();
-</script>
-
-</td>
-<td style="width:30%;padding-left:1em" markdown="1">
-#### Team Members
-- Weija Tao
-
-- Jahnav Rokalaboina
-
-- Raj Kodithyala
-
-- Chach Chaimongkol
-
-</td>
-</tr>
+			<td>
+				<a href="/research/hri"><img src="/images/respic/hri/hri1.png" alt="Human-Robot Interaction (HRI)" width="100%"></a>
+			</td>
+		</tr>
+	</tbody>
 </table>
-### Collaborators
- - ABRC
- - BNI
- - UIUC
- - Virginia Tech
- - SRP
-<hr>
+
+
