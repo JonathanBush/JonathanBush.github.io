@@ -63,12 +63,23 @@ Robots are increasingly employed in close proximity to humans. For the humans an
   - Project Description
     - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
   - Looking for:
-    -Set up Overcooked RL environment
-	-Modify overcooked to induce risk
-	-Train standard baseline policies
-	-Train discrete prospect-theoretic models
-	-Estimate latent human parameters online
-<
+    - Set up Overcooked RL environment
+    - Modify overcooked to induce risk
+    - Train standard baseline policies
+    - Train discrete prospect-theoretic models
+    - Estimate latent human parameters online
+
+ 
+  <h4>Game Theoretical Modeling of Physical Human-Robot Interactions </h4>
+  - Goal
+    - Developing a game theoretical-based controller for physical human-robot interaction scenarios such as controlling assistive wearable robots 
+
+  - Project Description
+    - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
+  - Looking for:
+    - Developing a framework for solving incomplete information Multi-agent interactions.
+    - Apply the developed framework to actual HRI scenarios and model the human learning process.
+    - Applying the results on the control of assistive wearable robots to have a more compliant and robust controller
 </div>
 
 <div id="Outreach" class="tabcontent" style="height:500px;">
@@ -83,13 +94,13 @@ document.getElementById("defaultOpen").click();
 </td>
 <td style="width:30%;padding-left:1em" markdown="1">
 #### Team Members
-- Weija Tao
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Sunny Amatya</a>
 
-- Jahnav Rokalaboina
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Jonathan Bush</a>
 
-- Raj Kodithyala
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Mason Smith</a>
 
-- Chach Chaimongkol
+- <a href="{{ site.url }}{{ site.baseurl }}/team">Yousef Soltanian</a>
 
 </td>
 </tr>
