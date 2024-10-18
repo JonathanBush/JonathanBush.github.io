@@ -49,19 +49,26 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 <!-- Tab content -->
 <div id="Publications" class="tabcontent">
   <h3>Publications</h3>
-  <p>London is the capital city of England.</p>
+  <p><a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></p>
+  <p><a href="https://ieeexplore.ieee.org/abstract/document/9982108">Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information</a></p>
+  <p><a href="[https://ieeexplore.ieee.org/abstract/document/9982108](https://ieeexplore.ieee.org/abstract/document/9867155)">When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions</a></p>
+	
 </div>
 
 <div id="Projects" class="tabcontent" markdown="1">
   <h3>Projects</h3>
-  <h4>Soft Robotic Arm</h4>
+  <h4>Prospect-Theoretic Reinforcement Learning in Overcooked</h4>
   - Goal
-    - Modeling and control of a soft robotic arm
+    - Make AI better understand human preferences and decisions to make AI better able to assist
   - Project Description
-    - Work on pneumatically operated soft robotic arm to test, train and implement models and develop control algorithms to achieve tasks including but not limited to trajectory tracking.
+    - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
   - Looking for:
-    - Modify/upgrade the design of soft robotic arm and evaluation protocol for different experiments.
-	- Identify and implement different types of input/output data collection trials to train/test models.
+    -Set up Overcooked RL environment
+	-Modify overcooked to induce risk
+	-Train standard baseline policies
+	-Train discrete prospect-theoretic models
+	-Estimate latent human parameters online
+
 </div>
 
 <div id="Outreach" class="tabcontent">
