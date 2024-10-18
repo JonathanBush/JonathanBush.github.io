@@ -88,7 +88,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
   -->
 <table style="width:100%">
   <tr>
-    <td markdown="span"> 
+    <td> 
 <ul> 
 	<li>
 		Goal
