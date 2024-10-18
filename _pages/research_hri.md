@@ -113,12 +113,24 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 		<li>
 			Set up Overcooked RL environment
 		</li>
+	<li>
+			Modify overcooked to induce risk
+		</li>
+	<li>
+			Train standard baseline policies
+		</li>
+	<li>
+			Train discrete prospect-theoretic models
+		</li>
+	<li>
+			Estimate latent human parameters online
+		</li>
 </ul>
 </ul>
     </td>
     <td markdown = "span" style="width:50%">
-	    <img src="/images/respic/hri/hri3.PNG" width="200px"> <br>
-	    <img src="/images/respic/hri/hri4.png" width="200px">
+	    <img src="/images/respic/hri/hri3.PNG" width="300px"> <br>
+	    <img src="/images/respic/hri/hri4.png" width="300px">
     </td>
   </tr>
 </table>
@@ -134,11 +146,67 @@ Robots are increasingly employed in close proximity to humans. For the humans an
     - Developing a framework for solving incomplete information Multi-agent interactions.
     - Apply the developed framework to actual HRI scenarios and model the human learning process.
     - Applying the results on the control of assistive wearable robots to have a more compliant and robust controller
+   
+<table style="width:100%">
+  <tr>
+    <td> 
+<ul> 
+	<li>
+		Goal
+	</li>
+	<ul>
+		<li>
+			Developing a game theoretical-based controller for physical human-robot interaction scenarios such as controlling assistive wearable robots 
+		</li>
+	</ul>
+ <li>
+		Project Description
+	</li>
+ <ul>
+		<li>
+			We are aiming to integrate incomplete information
+	games With optimal control and reinforcement learning
+to infer the human intent during HRI tasks and also model
+the possible learning process of the human while interacting
+with the robot
+
+		</li>
+ </ul>
+ <li>
+		Looking for:
+	</li>
+<ul>
+		<li>
+			Developing a framework for solving incomplete information
+Multi-agent interactions.
+
+		</li>
+	<li>
+			Modify overcooked to induce risk
+		</li>
+	<li>
+			Applying the developed  framework to actual HRI scenarios and 
+model the human learning process.
+
+		</li>
+	<li>
+			Applying the results on the control of assistive wearable robots
+To have a more compliant and robust controller
+
+		</li>
+</ul>
+</ul>
+    </td>
+    <td markdown = "span" style="width:50%">
+	    <img src="/images/respic/hri/hri5.PNG" width="300px">
+    </td>
+  </tr>
+</table>
 </div>
 
 <div id="Outreach" class="tabcontent" style="height:500px;">
   <h3>Outreach</h3>
-  <p>Tokyo is the capital of Japan.</p>
+  <img src="/images/respic/hri/hri5.PNG" width="500px">
 </div>
 
 <script>
