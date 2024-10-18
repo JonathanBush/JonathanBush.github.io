@@ -74,6 +74,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 <div id="Projects" class="tabcontent" markdown="1" style="height:500px;overflow:scroll">
   <h3>Projects</h3>
   <h4>Prospect-Theoretic Reinforcement Learning in Overcooked</h4>
+<!--
   - Goal
     - Make AI better understand human preferences and decisions to make AI better able to assist
   - Project Description
@@ -84,6 +85,30 @@ Robots are increasingly employed in close proximity to humans. For the humans an
     - Train standard baseline policies
     - Train discrete prospect-theoretic models
     - Estimate latent human parameters online
+  -->
+    <table style="width:100%">
+  <tr>
+    <td>  
+    - Goal
+      - Make AI better understand human preferences and decisions to make AI better able to assist
+    - Project Description
+      - Integrate risk-aware cognitive models (CPT) into interactive AI planning in an Overcooked environment
+    - Looking for:
+      - Set up Overcooked RL environment
+      - Modify overcooked to induce risk
+      - Train standard baseline policies
+      - Train discrete prospect-theoretic models
+      - Estimate latent human parameters online</td>
+    <td style="width:50%">
+	    <img src="/images/respic/hri/hri3.PNG" width="200px">
+	     <img src="/images/respic/hri/hri4.png" width="200px">
+      		 <img src="/images/respic/hri/hri5.PNG" width="200px">
+     		
+    
+    
+    </td>
+  </tr>
+</table>
 
  
   <h4>Game Theoretical Modeling of Physical Human-Robot Interactions </h4>
