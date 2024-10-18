@@ -86,9 +86,9 @@ Robots are increasingly employed in close proximity to humans. For the humans an
     - Train discrete prospect-theoretic models
     - Estimate latent human parameters online
   -->
-    <table style="width:100%">
+<table style="width:100%">
   <tr>
-    <td>  
+    <td markdown="span">  
     - Goal
       - Make AI better understand human preferences and decisions to make AI better able to assist
     - Project Description
@@ -99,13 +99,8 @@ Robots are increasingly employed in close proximity to humans. For the humans an
       - Train standard baseline policies
       - Train discrete prospect-theoretic models
       - Estimate latent human parameters online</td>
-    <td style="width:50%">
+    <td markdown = "span" style="width:50%">
 	    <img src="/images/respic/hri/hri3.PNG" width="200px">
-	     <img src="/images/respic/hri/hri4.png" width="200px">
-      		 <img src="/images/respic/hri/hri5.PNG" width="200px">
-     		
-    
-    
     </td>
   </tr>
 </table>
