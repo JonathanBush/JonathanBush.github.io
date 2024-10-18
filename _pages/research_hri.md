@@ -37,7 +37,7 @@ Robots are increasingly employed in close proximity to humans. For the humans an
 
 <table style="width:100%">
 <tr>
-<td style="width:70%">
+<td style="width:80%">
 
 <!-- Tab links -->
 <div class="tab">
@@ -51,16 +51,16 @@ Robots are increasingly employed in close proximity to humans. For the humans an
   <h3>Publications</h3>
 <table style="width:100%">
   <tr>
-    <td><<a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></td>
-    <td style="width:50%"><img src="/images/respic/hri/hri1.png" width="200px"></td>
+    <td width="50%"><a href="https://ieeexplore.ieee.org/abstract/document/10065388">Learning Post-Stroke Gait Training Strategies by Modeling Patient-Therapist Interaction</a></td>
+    <td style="width:50%" style="text-align:center"><img src="/images/respic/hri/hri1.png" width="200px"></td>
   </tr>
   <tr>
     <td><a href="https://ieeexplore.ieee.org/abstract/document/9982108">Bounded Rational Game-theoretical Modeling of Human Joint Actions with Incomplete Information</a></td>
-    <td><img src="/images/respic/hri/hri2.png" width="200px"></td>
+    <td style="text-align:center"><img src="/images/respic/hri/hri2.png" width="200px"></td>
   </tr>
   <tr>
     <td><a href="[https://ieeexplore.ieee.org/abstract/document/9982108](https://ieeexplore.ieee.org/abstract/document/9867155)">When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions</a></td>
-    <td>Francisco Chang</td>
+    <td style="text-align:center">Francisco Chang</td>
   </tr>
 </table>
 <!--
@@ -204,7 +204,7 @@ document.getElementById("defaultOpen").click();
 </script>
 
 </td>
-<td style="width:30%;padding-left:1em" markdown="1">
+<td style="width:20%;padding-left:1em" markdown="1">
 #### Team Members
 - <a href="{{ site.url }}{{ site.baseurl }}/team">Sunny Amatya</a>
 
